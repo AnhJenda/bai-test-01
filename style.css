@@ -1,0 +1,29 @@
+@font-face {
+    src: url("./fonts/thuphap/Vbutlong.ttf");
+    font-family: thuphap;
+}
+
+h1{
+    font-family:"Times New Roman", Georgia, serif;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 1000;
+    line-height: 30px;
+    letter-spacing: 1px;
+}
+
+p{
+    font-family: Fruktur, cursive;
+    word-spacing: 0.5em;
+}
+
+p.example{
+    font-family: thuphap, serif;
+    letter-spacing: 1px;
+    word-spacing: 0.3em;
+}
+
+#example2{
+    text-align: right;
+    color: blueviolet;
+}
